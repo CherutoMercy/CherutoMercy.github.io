@@ -24,6 +24,28 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+.rails{
+    color: #F44336;
+    font-weight: 600;
+    margin: 16px 0 5px;
+}
+.ruby b{
+    color: #F44336;
+}
+.code{
+    color: #9C27B0;
+    font-weight: 600;
+    margin: 16px 0 5px;
+}
+.africa .af{
+    color: #2196F3;
+}
+.africa .co{
+    color: #F44336;
+}
+.africa .we{
+    color: #8BC34A;
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
